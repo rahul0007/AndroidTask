@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidTask</string>
+    <string name="free">Free</string>
+    <string name="_4_seats">4 seats</string>
+    <string name="table_1">Table 1</string>
+    <string name="restaurant_canvas">Restaurant Canvas</string>
+    <string name="indian_bar"><![CDATA[Indian bar & Restaurant]]></string>
+    <string name="choose_your_table">Choose your table place</string>
+    <string name="preview">Preview</string>
+</resources>
