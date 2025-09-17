@@ -1,12 +1,11 @@
 
 
 
-# Restaurant Floor Plan Designer
+# Plan your restaurant or cafe seating easily.
 
-Plan your restaurant or café seating with ease.  
-Start with a blank floor and arrange tables and chairs anywhere you like.  
-Drag to move, pinch to rotate or resize, and experiment with different layouts until everything feels perfect.  
-Save your design and open a full-screen preview to see how the space will look before you set up in real life—just like sketching on paper, only faster.
+Start with an empty floor plan and place tables and chairs wherever you want.
+Move, rotate, them with your fingers until the layout looks right.
+Save your design and open a full-screen preview to see how it will look in real life.
 
 ---
 
