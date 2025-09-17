@@ -10,9 +10,9 @@ import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
 import com.example.androidtask.R
 import com.example.androidtask.databinding.ActivityMainBinding
-import com.example.androidtask.data.local.ChairModel
-import com.example.androidtask.data.local.LayoutData
-import com.example.androidtask.data.local.TableModel
+import com.example.androidtask.data.ChairModel
+import com.example.androidtask.data.LayoutData
+import com.example.androidtask.data.TableModel
 import com.example.androidtask.presentation.table.TableView
 import com.google.gson.Gson
 import kotlin.math.max
@@ -64,7 +64,6 @@ class MainActivity : AppCompatActivity() {
             binding.canvasContainer.addView(tableView)
         }
 
-        // Reload chairs
         LayoutData.chairs.forEach { chair ->
             addChairView(
                 x = chair.x,

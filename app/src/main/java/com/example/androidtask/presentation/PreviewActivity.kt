@@ -5,9 +5,9 @@ import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
 import com.example.androidtask.R
 import com.example.androidtask.databinding.ActivityPreviewBinding
-import com.example.androidtask.data.local.ChairModel
+import com.example.androidtask.data.ChairModel
 import com.example.androidtask.presentation.table.TableView
-import com.example.androidtask.data.local.TableModel
+import com.example.androidtask.data.TableModel
 import com.google.gson.Gson
 
 class PreviewActivity : AppCompatActivity() {

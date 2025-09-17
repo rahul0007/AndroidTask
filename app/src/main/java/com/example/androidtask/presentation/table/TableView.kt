@@ -5,7 +5,7 @@ import android.view.LayoutInflater
 import android.widget.FrameLayout
 import android.widget.TextView
 import com.example.androidtask.R
-import com.example.androidtask.data.local.TableModel
+import com.example.androidtask.data.TableModel
 
 class TableView @JvmOverloads constructor(
     context: Context,
@@ -16,7 +16,7 @@ class TableView @JvmOverloads constructor(
 
     fun bind(table: TableModel, widthPx: Int, heightPx: Int) {
         removeAllViews()
-        val layoutRes = if (table.capacity <= 3) R.layout.view_table else R.layout.view_table_pill
+        val layoutRes = if (table.capacity <= 3) R.layout.table_small_rounded else R.layout.table_large_pill
         val view = LayoutInflater.from(context).inflate(layoutRes, this, false)
         view.layoutParams = LayoutParams(widthPx, heightPx)
         addView(view)
