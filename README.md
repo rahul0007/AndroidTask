@@ -1,6 +1,37 @@
 
+
+
+# Restaurant Floor Plan Designer
+
+Plan your restaurant or café seating with ease.  
+Start with a blank floor and arrange tables and chairs anywhere you like.  
+Drag to move, pinch to rotate or resize, and experiment with different layouts until everything feels perfect.  
+Save your design and open a full-screen preview to see how the space will look before you set up in real life—just like sketching on paper, only faster.
+
+---
+
+## App Features
+
+- **Drag & Drop Layout** – Move tables and chairs freely on the canvas.  
+- **Rotation** – Pinch or twist to rotate and scale items.  
+- **Preview Mode** – View your plan full-screen to visualize the final setup.  
+
+---
+
+## Icons & Their Functions
+
+- **Chair icon** – Add a new chair to the layout  
+- **Undo icon** – Remove the last chair you added  
+- **Preview button** – Open a full-screen preview of the current floor plan
+
+---
+
+### Video
+
 https://github.com/user-attachments/assets/726e3472-c2aa-48cf-b24f-bcfbe6dc8efb
 
+
+### Screenshots
 
 ![Screenshot_20250916_225141](https://github.com/rahul0007/AndroidTask/blob/077fbd4c59438929b21ea748244c9e968fed4c0d/Screenshot_20250916_225141.png).
 
