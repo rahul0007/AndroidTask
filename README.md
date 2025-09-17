@@ -3,25 +3,25 @@
 
 # Plan your restaurant or cafe seating easily.
 
-Start with an empty floor plan and place tables and chairs wherever you want.
-Move, rotate, them with your fingers until the layout looks right.
-Save your design and open a full-screen preview to see how it will look in real life.
+Start with a blank floor plan and add tables and chairs wherever you like.
+Use your fingers to move them around and rotate them until the arrangement feels just right.
+When you’re happy with the layout, save your design and open the full-screen preview to see how the space will look in real life
 
 ---
 
 ## App Features
 
-- **Drag & Drop Layout** – Move tables and chairs freely on the canvas.  
-- **Rotation** – Pinch or twist to rotate and scale items.  
-- **Preview Mode** – View your plan full-screen to visualize the final setup.  
+- **Drag & Drop Layout** – Move tables and chairs anywhere on the screen.  
+- **Rotate Items** – Double-tap a chair to turn it 90°, or use two fingers to spin a table to any angle.
+- **Preview Mode** – See the whole floor plan in full screen to check the final look.  
 
 ---
 
-## Icons & Their Functions
+### Icons
 
-- **Chair icon** – Add a new chair to the layout  
-- **Undo icon** – Remove the last chair you added  
-- **Preview button** – Open a full-screen preview of the current floor plan
+- **Chair icon** – Adds a chair to the floor plan.  
+- **Undo icon** – Removes the most recently added chair.  
+- **Preview button** – Shows a full-screen preview of the layout.
 
 ---
 
